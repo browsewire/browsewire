@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Browsewire Consulting Pvt. Ltd.</h1>
+<h1 align="center">Hi 👋, We are Browsewire Consulting </h1>
 <h3 align="center">We are experts at building strategic and comprehensive web business solutions, which are custom made to specific requirements.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=browsewire&label=Profile%20views&color=0e75b6&style=flat" alt="browsewire" /> </p>
